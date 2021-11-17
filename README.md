@@ -7,5 +7,6 @@
 
 | Название проекта | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [exploratory_data_analysis](exploratory_data_analysis) | Определение перспективного продукта для интернет-магазина компьютерных игр| *pandas*, *numpy*, *scipy*, *matplotlib*, *seaborn* |
-| [machine_learning](machine_learning) | Создание модели машинного обучения для эффективной работы промышленного предприятия| *pandas*, *matplotlib*, *sklearn* |
+| [Исследовательский анализ данных](exploratory_data_analysis) | Определение перспективного продукта для интернет-магазина компьютерных игр| *pandas*, *numpy*, *scipy*, *matplotlib*, *seaborn* |
+| [Машинное обучение](machine_learning) | Создание модели машинного обучения для эффективной работы промышленного предприятия| *pandas*, *matplotlib*, *sklearn* |
+| [Машинное обучение](project_ml) | Прогнозирование оттока клиентов для оператора связи| *pandas*, *numpy*, *matplotlib*, *seaborn*, *sklearn*, *catboost* |
